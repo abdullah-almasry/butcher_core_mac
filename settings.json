@@ -1,0 +1,109 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "dart.flutterSdkPath": "C:\\flutter\\2.0.0-stable",
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "git.enableSmartCommit": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "onFocusChange",
+  "editor.minimap.enabled": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "dart.debugExternalLibraries": true,
+  "dart.debugSdkLibraries": false,
+  "dart.updateImportsOnRename": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // "prettier.configPath": "./personal.yml"
+  },
+  "debug.javascript.autoAttachFilter": "disabled",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "vsicons.presets.jsonOfficial": true,
+  "vsicons.presets.tsOfficial": true,
+  "explorer.confirmDelete": false,
+  "typescript.format.enable": false,
+  "typescript.format.insertSpaceAfterConstructor": true,
+  "typescript.locale": "en",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 3,
+  "dart.allowAnalytics": false,
+  "dart.analyzeAngularTemplates": false,
+  "dart.embedDevTools": false,
+  "dart.env": {},
+  "dart.flutterCreateOffline": true,
+  "dart.flutterCreateOrganization": "com.queen",
+  "dart.flutterCustomEmulators": [],
+  "dart.flutterScreenshotPath": null,
+  "dart.flutterWebRenderer": "html",
+  "dart.lineLength": 150,
+  "dart.runPubGetOnPubspecChanges": false,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "dart.sdkPath": null,
+  "dart.flutterSdkPaths": ["2.0.0-stable", "C:\\flutter\\1.22.6"],
+  "dart_data_class_generator.fromJson.enabled": false,
+  "dart_data_class_generator.hashCode.enabled": false,
+  "dart_data_class_generator.toJson.enabled": false,
+  "dart_data_class_generator.toString.enabled": false,
+  "dart_data_class_generator.useEquatable": true,
+  "json.schemas": [],
+  "dart.flutterHotReloadOnSave": "always",
+  "dart.flutterRunAdditionalArgs": ["--no-sound-null-safety"],
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "dart.hotReloadProgress": "statusBar",
+  "cSpell.enabled": true,
+  "workbench.welcomePage.hiddenCategories": ["Beginner", "Setup"],
+  "cSpell.enableFiletypes": ["!dart", "!json", "!yaml"],
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "dartImport.fixOnSave": true,
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.sideBar.location": "right",
+  "redhat.telemetry.enabled": false,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "security.workspace.trust.untrustedFiles": "open",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
